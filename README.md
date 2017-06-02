@@ -1,4 +1,4 @@
-# design-pattern
+# Design Pattern
 🎸The design pattern with Java.
 ---  
 - **Signleton** (√)
